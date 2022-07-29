@@ -1,0 +1,8 @@
+#-----------------------------------
+#   Database
+#-----------------------------------
+SQLAlchemy
+Flask-SQLAlchemy
+Flask-Migrate
+sqlalchemy-utils
+psycopg2
